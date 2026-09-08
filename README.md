@@ -2,6 +2,8 @@
 
 A simple and responsive **Password Generator** built using **React, Tailwind CSS, and Vite**.
 
+![password](passwordGen.png)
+
 ## ✨ Features
 
 * Generate random passwords
