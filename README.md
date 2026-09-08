@@ -2,7 +2,7 @@
 
 A simple and responsive **Password Generator** built using **React, Tailwind CSS, and Vite**.
 
-![password](passwordGen.png)
+![password](passwordgen.png)
 
 ## ✨ Features
 
